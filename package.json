@@ -8,7 +8,7 @@
     "lib": "lib"
   },
   "scripts": {
-    "test": "jest"
+    "test": "jest --watchAll --verbose --coverage"
   },
   "keywords": [],
   "author": "",
